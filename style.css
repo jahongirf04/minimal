@@ -538,3 +538,47 @@ li a{
   justify-content: center;
   background-color: black;
 }
+
+@media (max-width: 768px){
+  .wrapper{
+    width: 768px;
+  }
+  .yellow-div{
+    padding: 20px;
+  }
+
+  .hows-item{
+    width: 50%;
+  }
+
+  .how{
+    flex-direction: column;
+  }
+
+  .projects-item{
+    flex-direction: column;
+    }
+
+  .projects{
+    height: 3900px;
+  }
+
+  .projects-item div{
+    width: 60%;
+  }
+
+  .projects-item div img{
+    width: 100%;
+    height: 80%;
+  }
+
+
+  .our-team-div-item-bigimg{
+    width: 168px;
+    height: 170px;
+  }
+
+  .get-in-touch-item{
+    gap: 80px;
+  }
+}
