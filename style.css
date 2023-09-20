@@ -541,7 +541,7 @@ li a{
 
 @media (max-width: 768px){
   .wrapper{
-    width: 768px;
+    width: 100%;
   }
   .yellow-div{
     padding: 20px;
@@ -580,5 +580,9 @@ li a{
 
   .get-in-touch-item{
     gap: 80px;
+  }
+
+  .info img{
+    width: 100%;
   }
 }
