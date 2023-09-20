@@ -539,9 +539,9 @@ li a{
   background-color: black;
 }
 
-@media (max-width: 800px){
+@media (max-width: 769px){
   .wrapper{
-    width: 800px;
+    width: 769px;
   }
   .yellow-div{
     padding: 20px;
