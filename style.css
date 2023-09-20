@@ -539,7 +539,7 @@ li a{
   background-color: black;
 }
 
-@media (max-width: 768px){
+@media (max-width: 775px){
   .wrapper{
     width: 100%;
   }
